@@ -1,19 +1,25 @@
 # BAIT Internal Audit Playbook
 
-This repository provides a practical internal audit playbook
-for assessing compliance with BAIT – the German supervisory requirements
-for IT in credit institutions.
+Dieses Repository stellt ein praktisches **Audit-Playbook** zur Überprüfung der Einhaltung der **BAIT (Bankaufsichtliche Anforderungen an die IT)** zur Verfügung. Es dient als Leitfaden für interne Auditoren in Kreditinstituten, um die aufsichtsrechtlichen Vorgaben der BaFin effizient und strukturiert zu prüfen.
 
-## Focus Areas
-- IT Governance
-- IT Operations (IT-Betrieb)
-- Information Security Management System (ISMS)
-- Business Continuity Management (BCM)
 
-## Purpose
-- Demonstrate knowledge of BAIT requirements
-- Provide structured audit modules for internal review
-- Prepare for supervisory inspections
+
+## Fokusbereiche (Focus Areas)
+Das Playbook deckt die wesentlichen Kapitel der BAIT ab:
+
+* **IT-Governance:** Überprüfung der organisatorischen Einbettung und der IT-Strategie.
+* **IT-Betrieb (IT Operations):** Bewertung der Stabilität, Sicherheit und Prozesse im IT-Betrieb.
+* **Informationssicherheitsmanagement (ISMS):** Analyse der Sicherheitsrichtlinien und -kontrollen.
+* **Notfallmanagement (BCM):** Überprüfung der Wiederherstellbarkeit und Resilienz.
+
+
+
+## Zweck des Playbooks (Purpose)
+* **Demonstration von BAIT-Wissen:** Konsistente Anwendung aufsichtlicher Anforderungen.
+* **Strukturierte Prüfmodule:** Bereitstellung von Checklisten für interne Revisionen.
+* **Vorbereitung auf aufsichtliche Prüfungen:** Proaktive Identifikation von Schwachstellen (Mock Audits).
+
+
 
 ## Disclaimer
-This repository is a mock-up for educational and demonstration purposes.
+Dieses Repository ist ein **Entwurf (Mock-up)** zu Bildungs- und Demonstrationszwecken. Es ersetzt keine Rechtsberatung und keine formelle aufsichtliche Prüfung.
